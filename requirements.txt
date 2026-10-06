@@ -1,0 +1,37 @@
+# ============================================
+# ALMDP Kaduna M&E Portfolio
+# Python Project Requirements
+# ============================================
+
+# Data manipulation and numerical analysis
+pandas
+numpy
+
+# Excel and M&E workbook management
+openpyxl
+
+# Statistical analysis
+scipy
+statsmodels
+
+# Data visualization
+matplotlib
+seaborn
+plotly
+
+# Jupyter analysis environment
+jupyter
+jupyterlab
+ipykernel
+
+# Data quality and validation
+pandera
+
+# Synthetic dataset generation
+faker
+
+# GIS and spatial analysis
+geopandas
+shapely
+pyproj
+folium
