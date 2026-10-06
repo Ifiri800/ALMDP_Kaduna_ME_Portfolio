@@ -364,3 +364,172 @@ LONG-TERM IMPACT
       |
       v
 IMPROVED LIVELIHOODS AND ECONOMIC RESILIENCE
+
+# 15. Contribution Rather Than Attribution
+
+The project will use a contribution-based interpretation of results.
+
+Changes in beneficiary income, productivity, market participation or resilience may be influenced by factors outside the project, including weather, market prices, government programmes, input availability, household characteristics and broader economic conditions.
+
+Therefore, observed changes will not automatically be attributed entirely to ALMDP.
+
+The M&E system will instead assess whether observed changes are consistent with the project's Theory of Change and whether project activities and outputs provide credible evidence of contribution.
+
+This will be supported through:
+
+- Baseline measurements.
+- Periodic monitoring.
+- Outcome measurements.
+- Beneficiary feedback.
+- Comparison of performance against targets.
+- Documentation of implementation intensity.
+- Analysis of contextual factors.
+- Qualitative explanations of observed changes.
+- Triangulation of quantitative and qualitative evidence.
+
+---
+
+# 16. Learning and Adaptive Management
+
+Monitoring information will be used not only for reporting but also for management and learning.
+
+The adaptive management cycle will be:
+
+**Measure → Analyze → Identify Variance → Investigate Cause → Decide → Act → Monitor → Learn**
+
+Where performance falls below target, management will:
+
+1. Identify the variance.
+2. Determine the likely cause.
+3. Review supporting evidence.
+4. Identify corrective actions.
+5. Assign responsibility.
+6. Establish a completion deadline.
+7. Monitor implementation.
+8. Assess whether performance improves.
+
+Lessons from implementation will be documented and used to refine activities and management decisions.
+
+---
+
+# 17. Linkage to the Indicator Framework
+
+The Theory of Change is directly linked to the project's 24-indicator M&E framework.
+
+### Impact indicators
+
+- IMP-01: Average annual beneficiary income.
+- IMP-02: Beneficiaries reporting improved economic resilience.
+
+### Outcome indicators
+
+- OUT-01: Average crop productivity.
+- OUT-02: Farmers adopting at least three recommended practices.
+- OUT-03: Trained farmers demonstrating adequate knowledge.
+- OUT-04: Farmers selling through structured markets.
+- OUT-05: Beneficiaries reporting improved buyer access.
+- OUT-06: Average post-harvest loss rate.
+- OUT-07: Supported MSMEs reporting increased annual revenue.
+- OUT-08: Average MSME annual profit.
+- OUT-09: Supported MSMEs maintaining basic financial records.
+- OUT-10: Direct beneficiaries who are women.
+- OUT-11: Direct beneficiaries aged 18–35.
+- OUT-12: Women beneficiaries reporting increased agricultural/business income.
+
+### Output indicators
+
+- OP-01: Farmers trained.
+- OP-02: Farmers completing climate-smart agriculture training.
+- OP-03: Demonstration plots established.
+- OP-04: Market-linkage events conducted.
+- OP-05: Farmers receiving market information.
+- OP-06: MSMEs receiving business support.
+- OP-07: MSMEs completing financial management training.
+- OP-08: Scheduled M&E activities completed on time.
+- OP-09: Required reports submitted on time.
+- OP-10: Sampled records passing DQA.
+
+These indicators will form the core of the project's results framework, indicator register and reporting system.
+
+---
+
+# 18. Management Use of M&E Evidence
+
+The M&E system will provide evidence for management decisions at multiple levels.
+
+### Implementation management
+
+Monitoring data will identify whether planned activities and outputs are being delivered on schedule.
+
+### Performance management
+
+Outcome indicators will show whether implementation is producing the expected changes among beneficiaries.
+
+### Resource management
+
+Performance information will support decisions about where additional technical support, resources or management attention may be required.
+
+### Risk management
+
+Monitoring information will help identify emerging implementation, market, environmental and data-quality risks.
+
+### Learning
+
+Outcome and qualitative evidence will help identify which interventions appear to be working, where performance is weaker and what implementation adjustments may be required.
+
+---
+
+# 19. Summary Results Logic
+
+The project's results logic can be summarized as follows:
+
+**Resources and technical capacity**
+
+↓
+
+**Training, demonstrations, market linkages, MSME support and M&E activities**
+
+↓
+
+**Improved delivery of project services**
+
+↓
+
+**Farmers trained, MSMEs supported, market linkages established and reliable M&E information generated**
+
+↓
+
+**Improved knowledge, adoption, market access, post-harvest management and business practices**
+
+↓
+
+**Higher productivity, lower post-harvest losses, stronger MSME performance, greater market participation and increased income**
+
+↓
+
+**Improved livelihoods and economic resilience**
+
+The strength of this causal pathway will be assessed through the project's monitoring and evaluation system using quantitative indicators, beneficiary-level data, data quality assessments, qualitative evidence and periodic outcome assessments.
+
+---
+
+# 20. Portfolio Note
+
+This Theory of Change is part of the **Agricultural Livelihoods and MSME Development Project (ALMDP) M&E Portfolio**.
+
+All project parameters, beneficiary figures, baseline values, targets, results and datasets used within this portfolio are synthetic unless explicitly identified as external reference information.
+
+The portfolio is designed to demonstrate practical competence in:
+
+- Project design.
+- Theory of Change development.
+- Results-based management.
+- Indicator development.
+- Baseline design.
+- Data collection.
+- Data quality assurance.
+- Data management.
+- Quantitative analysis.
+- Dashboard development.
+- Reporting.
+- Learning and adaptive management.
