@@ -1,0 +1,34 @@
+issue_id,respondent_id,variable,rule,issue,observed_value,severity,recommended_action,status
+DQA-0001,ALMDP-0001,respondent_id,Unique respondent ID,Duplicate respondent ID detected,ALMDP-0001,High,Investigate duplicate records and retain only the valid record after reconciliation,Open
+DQA-0002,ALMDP-0101,respondent_id,Unique respondent ID,Duplicate respondent ID detected,ALMDP-0101,High,Investigate duplicate records and retain only the valid record after reconciliation,Open
+DQA-0003,ALMDP-0501,respondent_id,Unique respondent ID,Duplicate respondent ID detected,ALMDP-0501,High,Investigate duplicate records and retain only the valid record after reconciliation,Open
+DQA-0004,ALMDP-1001,respondent_id,Unique respondent ID,Duplicate respondent ID detected,ALMDP-1001,High,Investigate duplicate records and retain only the valid record after reconciliation,Open
+DQA-0005,ALMDP-1501,respondent_id,Unique respondent ID,Duplicate respondent ID detected,ALMDP-1501,High,Investigate duplicate records and retain only the valid record after reconciliation,Open
+DQA-0006,ALMDP-0001,respondent_id,Unique respondent ID,Duplicate respondent ID detected,ALMDP-0001,High,Investigate duplicate records and retain only the valid record after reconciliation,Open
+DQA-0007,ALMDP-0101,respondent_id,Unique respondent ID,Duplicate respondent ID detected,ALMDP-0101,High,Investigate duplicate records and retain only the valid record after reconciliation,Open
+DQA-0008,ALMDP-0501,respondent_id,Unique respondent ID,Duplicate respondent ID detected,ALMDP-0501,High,Investigate duplicate records and retain only the valid record after reconciliation,Open
+DQA-0009,ALMDP-1001,respondent_id,Unique respondent ID,Duplicate respondent ID detected,ALMDP-1001,High,Investigate duplicate records and retain only the valid record after reconciliation,Open
+DQA-0010,ALMDP-1501,respondent_id,Unique respondent ID,Duplicate respondent ID detected,ALMDP-1501,High,Investigate duplicate records and retain only the valid record after reconciliation,Open
+DQA-0011,ALMDP-0148,age,Age must be between 18 and 100,Age outside valid range,15,High,Verify respondent age from source questionnaire,Open
+DQA-0012,ALMDP-0001,farm_area_ha,Farmer farm area must be greater than zero,Invalid or missing farmer farm area,,High,Verify farm area from source questionnaire,Open
+DQA-0013,ALMDP-0002,farm_area_ha,Farmer farm area must be greater than zero,Invalid or missing farmer farm area,,High,Verify farm area from source questionnaire,Open
+DQA-0014,ALMDP-0003,farm_area_ha,Farmer farm area must be greater than zero,Invalid or missing farmer farm area,,High,Verify farm area from source questionnaire,Open
+DQA-0015,ALMDP-0004,farm_area_ha,Farmer farm area must be greater than zero,Invalid or missing farmer farm area,,High,Verify farm area from source questionnaire,Open
+DQA-0016,ALMDP-0005,farm_area_ha,Farmer farm area must be greater than zero,Invalid or missing farmer farm area,,High,Verify farm area from source questionnaire,Open
+DQA-0017,ALMDP-0006,farm_area_ha,Farmer farm area must be greater than zero,Invalid or missing farmer farm area,,High,Verify farm area from source questionnaire,Open
+DQA-0018,ALMDP-0007,farm_area_ha,Farmer farm area must be greater than zero,Invalid or missing farmer farm area,,High,Verify farm area from source questionnaire,Open
+DQA-0019,ALMDP-0008,farm_area_ha,Farmer farm area must be greater than zero,Invalid or missing farmer farm area,,High,Verify farm area from source questionnaire,Open
+DQA-0020,ALMDP-0009,farm_area_ha,Farmer farm area must be greater than zero,Invalid or missing farmer farm area,,High,Verify farm area from source questionnaire,Open
+DQA-0021,ALMDP-0010,farm_area_ha,Farmer farm area must be greater than zero,Invalid or missing farmer farm area,,High,Verify farm area from source questionnaire,Open
+DQA-0022,ALMDP-0251,farm_area_ha,Farmer farm area must be greater than zero,Invalid or missing farmer farm area,-2.0,High,Verify farm area from source questionnaire,Open
+DQA-0023,ALMDP-0401,quantity_sold_t,Quantity sold must be less than or equal to quantity harvested,Quantity sold exceeds quantity harvested,12.17 > 10.14,High,Reconcile production and sales quantities against source questionnaire,Open
+DQA-0024,ALMDP-0601,quantity_lost_t,Quantity lost must be less than or equal to quantity harvested,Quantity lost exceeds quantity harvested,1.24 > 1.08,High,Reconcile production and loss quantities,Open
+DQA-0025,ALMDP-0015,knowledge_q3_response,Knowledge response must be coded 1 to 4,Knowledge response outside valid range,5,High,Verify questionnaire response and recalculate binary knowledge score,Open
+DQA-0026,ALMDP-0751,farm_area_ha,Extreme-value review threshold: 50,"Extreme value detected; value should be reviewed, not automatically deleted",85.0,Review,Review source evidence and retain if valid,Open
+DQA-0027,ALMDP-0901,quantity_harvested_t,Extreme-value review threshold: 100,"Extreme value detected; value should be reviewed, not automatically deleted",250.0,Review,Review source evidence and retain if valid,Open
+DQA-0028,ALMDP-1701,annual_sales_ngn,Extreme-value review threshold: 20000000,"Extreme value detected; value should be reviewed, not automatically deleted",50000000.0,Review,Review source evidence and retain if valid,Open
+DQA-0029,ALMDP-0047,total_annual_income_ngn,Extreme-value review threshold: 10000000,"Extreme value detected; value should be reviewed, not automatically deleted",11587599.04,Review,Review source evidence and retain if valid,Open
+DQA-0030,ALMDP-0216,total_annual_income_ngn,Extreme-value review threshold: 10000000,"Extreme value detected; value should be reviewed, not automatically deleted",10493051.34,Review,Review source evidence and retain if valid,Open
+DQA-0031,ALMDP-0409,total_annual_income_ngn,Extreme-value review threshold: 10000000,"Extreme value detected; value should be reviewed, not automatically deleted",10532947.28,Review,Review source evidence and retain if valid,Open
+DQA-0032,ALMDP-0575,total_annual_income_ngn,Extreme-value review threshold: 10000000,"Extreme value detected; value should be reviewed, not automatically deleted",10333698.69,Review,Review source evidence and retain if valid,Open
+DQA-0033,ALMDP-1201,total_annual_income_ngn,Extreme-value review threshold: 10000000,"Extreme value detected; value should be reviewed, not automatically deleted",25582649.37,Review,Review source evidence and retain if valid,Open
